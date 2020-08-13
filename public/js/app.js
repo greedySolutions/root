@@ -65841,6 +65841,292 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 /***/ }),
 
+/***/ "./resources/js/public/img/about-img.jpg":
+/*!***********************************************!*\
+  !*** ./resources/js/public/img/about-img.jpg ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/about-img.jpg?f7b96d7521b339c39e35f0d76c0306ea";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/clients/client-1.png":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/clients/client-1.png ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/client-1.png?f5632b401ce2cccb2e03b2cf1a90f9d0";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/clients/client-2.png":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/clients/client-2.png ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/client-2.png?2716af8581db83d482c39e4a85ab70ca";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/clients/client-3.png":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/clients/client-3.png ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/client-3.png?a71a23743b7bdededdadffa8961af840";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/clients/client-4.png":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/clients/client-4.png ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/client-4.png?9d168e917ef5978cf5514b121ebcb91d";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/clients/client-5.png":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/clients/client-5.png ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/client-5.png?2e138965e44680e931670a5900066092";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/clients/client-6.png":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/clients/client-6.png ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/client-6.png?8f8c214b40973ac4676d9d5175de3acc";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/clients/client-7.png":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/clients/client-7.png ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/client-7.png?ea94ec2313cb7ed808a874819d7ed59e";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/clients/client-8.png":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/clients/client-8.png ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/client-8.png?5ab0f7bd02d588ec8ef54a3b3e32251c";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/intro-carousel/1.jpg":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/intro-carousel/1.jpg ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/1.jpg?d1112d5b0f3dca75a1124775e012f408";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/intro-carousel/2.jpg":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/intro-carousel/2.jpg ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/2.jpg?d6575ccdd4cf7fb61003c4e3d6231e29";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/intro-carousel/3.jpg":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/intro-carousel/3.jpg ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/3.jpg?75075a0d98d031633561dae1b9e37bfe";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/intro-carousel/4.jpg":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/intro-carousel/4.jpg ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/4.jpg?b540da8dd76414f072e4ce9a0f8c17a8";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/intro-carousel/5.jpg":
+/*!******************************************************!*\
+  !*** ./resources/js/public/img/intro-carousel/5.jpg ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/5.jpg?f516347364261117aff95101f1cb2ed9";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/portfolio/1.jpg":
+/*!*************************************************!*\
+  !*** ./resources/js/public/img/portfolio/1.jpg ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/1.jpg?d6684974374672c98ad11a9cecbd210c";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/portfolio/2.jpg":
+/*!*************************************************!*\
+  !*** ./resources/js/public/img/portfolio/2.jpg ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/2.jpg?477d0ec715aaae35bacec140278b80a3";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/portfolio/3.jpg":
+/*!*************************************************!*\
+  !*** ./resources/js/public/img/portfolio/3.jpg ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/3.jpg?8d1ca407f2a7eac8874734acbdeaeb36";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/portfolio/4.jpg":
+/*!*************************************************!*\
+  !*** ./resources/js/public/img/portfolio/4.jpg ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/4.jpg?d15075d2bbe0978efc47c6865cb37076";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/portfolio/5.jpg":
+/*!*************************************************!*\
+  !*** ./resources/js/public/img/portfolio/5.jpg ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/5.jpg?4722005fd24f92c51e642c70cbbbc7e8";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/portfolio/6.jpg":
+/*!*************************************************!*\
+  !*** ./resources/js/public/img/portfolio/6.jpg ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/6.jpg?649105a6f7cc6217e7b8bb5ab0a9912e";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/portfolio/7.jpg":
+/*!*************************************************!*\
+  !*** ./resources/js/public/img/portfolio/7.jpg ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/7.jpg?7cec813d69fd62dc29946651c5bde014";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/portfolio/8.jpg":
+/*!*************************************************!*\
+  !*** ./resources/js/public/img/portfolio/8.jpg ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/8.jpg?c18084ceb75d9ea9d9c965f14c90af5a";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/team-1.jpg":
+/*!********************************************!*\
+  !*** ./resources/js/public/img/team-1.jpg ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/team-1.jpg?c854c1de0e1dd02b195358ee73bffa79";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/team-2.jpg":
+/*!********************************************!*\
+  !*** ./resources/js/public/img/team-2.jpg ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/team-2.jpg?ac444508191b0ad7871fc28ba3be5082";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/team-3.jpg":
+/*!********************************************!*\
+  !*** ./resources/js/public/img/team-3.jpg ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/team-3.jpg?00dab4da4e3dee022cfca28a187197fd";
+
+/***/ }),
+
+/***/ "./resources/js/public/img/team-4.jpg":
+/*!********************************************!*\
+  !*** ./resources/js/public/img/team-4.jpg ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/team-4.jpg?f98753512a66eedd54e46193ce813102";
+
+/***/ }),
+
 /***/ "./resources/js/src/App.js":
 /*!*********************************!*\
   !*** ./resources/js/src/App.js ***!
@@ -65852,25 +66138,1034 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _components_TopBar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/TopBar */ "./resources/js/src/components/TopBar.js");
+/* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/Header */ "./resources/js/src/components/Header.js");
+/* harmony import */ var _components_Intro__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/Intro */ "./resources/js/src/components/Intro.js");
+/* harmony import */ var _components_Main__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/Main */ "./resources/js/src/components/Main.js");
+
+
+
+
 
 
 function App() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "container"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "row justify-content-center"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "col-md-8"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "card"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "card-header"
-  }, "App Component"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "card-body"
-  }, "I'm an app component!")))));
+    className: "App"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_TopBar__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Header__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Intro__WEBPACK_IMPORTED_MODULE_3__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Main__WEBPACK_IMPORTED_MODULE_4__["default"], null));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (App);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/Header.js":
+/*!***********************************************!*\
+  !*** ./resources/js/src/components/Header.js ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+function Header() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", {
+    id: "header"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    id: "logo",
+    className: "pull-left"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#body",
+    className: "scrollto"
+  }, "Reve", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "al")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
+    id: "nav-menu-container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    className: "nav-menu"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    className: "menu-active"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#body"
+  }, "Home")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#about"
+  }, "About Us")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#services"
+  }, "Services")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#portfolio"
+  }, "Portfolio")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#team"
+  }, "Team")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    className: "menu-has-children"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, "Drop Down"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#"
+  }, "Drop Down 1")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#"
+  }, "Drop Down 3")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#"
+  }, "Drop Down 4")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#"
+  }, "Drop Down 5")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#contact"
+  }, "Contact"))))));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (Header);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/Intro.js":
+/*!**********************************************!*\
+  !*** ./resources/js/src/components/Intro.js ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _public_img_intro_carousel_1_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../../public/img/intro-carousel/1.jpg */ "./resources/js/public/img/intro-carousel/1.jpg");
+/* harmony import */ var _public_img_intro_carousel_1_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_img_intro_carousel_1_jpg__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _public_img_intro_carousel_2_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./../../public/img/intro-carousel/2.jpg */ "./resources/js/public/img/intro-carousel/2.jpg");
+/* harmony import */ var _public_img_intro_carousel_2_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_img_intro_carousel_2_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_img_intro_carousel_3_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./../../public/img/intro-carousel/3.jpg */ "./resources/js/public/img/intro-carousel/3.jpg");
+/* harmony import */ var _public_img_intro_carousel_3_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_img_intro_carousel_3_jpg__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_img_intro_carousel_4_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./../../public/img/intro-carousel/4.jpg */ "./resources/js/public/img/intro-carousel/4.jpg");
+/* harmony import */ var _public_img_intro_carousel_4_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_img_intro_carousel_4_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_img_intro_carousel_5_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./../../public/img/intro-carousel/5.jpg */ "./resources/js/public/img/intro-carousel/5.jpg");
+/* harmony import */ var _public_img_intro_carousel_5_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_img_intro_carousel_5_jpg__WEBPACK_IMPORTED_MODULE_5__);
+
+
+
+
+
+
+
+function Intro() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "intro"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "intro-content"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Making ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "your ideas"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), "happen!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#about",
+    className: "btn-get-started scrollto"
+  }, "Get Started"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#portfolio",
+    className: "btn-projects scrollto"
+  }, "Our Projects"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    id: "intro-carousel",
+    className: "owl-carousel"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "item",
+    style: {
+      backgroundImage: _public_img_intro_carousel_1_jpg__WEBPACK_IMPORTED_MODULE_1___default.a
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "item",
+    style: {
+      backgroundImage: _public_img_intro_carousel_2_jpg__WEBPACK_IMPORTED_MODULE_2___default.a
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "item",
+    style: {
+      backgroundImage: _public_img_intro_carousel_3_jpg__WEBPACK_IMPORTED_MODULE_3___default.a
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "item",
+    style: {
+      backgroundImage: _public_img_intro_carousel_4_jpg__WEBPACK_IMPORTED_MODULE_4___default.a
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "item",
+    style: {
+      backgroundImage: _public_img_intro_carousel_5_jpg__WEBPACK_IMPORTED_MODULE_5___default.a
+    }
+  })));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (Intro);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/Main.js":
+/*!*********************************************!*\
+  !*** ./resources/js/src/components/Main.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _main_About__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./main/About */ "./resources/js/src/components/main/About.js");
+/* harmony import */ var _main_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./main/service */ "./resources/js/src/components/main/service.js");
+/* harmony import */ var _main_ClientList__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./main/ClientList */ "./resources/js/src/components/main/ClientList.js");
+/* harmony import */ var _main_Portfolio__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./main/Portfolio */ "./resources/js/src/components/main/Portfolio.js");
+/* harmony import */ var _main_Testimonial__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./main/Testimonial */ "./resources/js/src/components/main/Testimonial.js");
+/* harmony import */ var _main_Team__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./main/Team */ "./resources/js/src/components/main/Team.js");
+/* harmony import */ var _main_ContactUs__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./main/ContactUs */ "./resources/js/src/components/main/ContactUs.js");
+
+
+
+
+
+
+
+
+
+function Main() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("main", {
+    id: "main"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_main_About__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_main_service__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_main_ClientList__WEBPACK_IMPORTED_MODULE_3__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_main_Portfolio__WEBPACK_IMPORTED_MODULE_4__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_main_Testimonial__WEBPACK_IMPORTED_MODULE_5__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_main_Team__WEBPACK_IMPORTED_MODULE_6__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_main_ContactUs__WEBPACK_IMPORTED_MODULE_7__["default"], null));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (Main);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/TopBar.js":
+/*!***********************************************!*\
+  !*** ./resources/js/src/components/TopBar.js ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+function TopBar() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "topbar",
+    className: "d-none d-lg-block"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container clearfix"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "contact-info float-left"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-envelope-o"
+  }), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "mailto:contact@example.com"
+  }, "contact@example.com"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-phone"
+  }), " +1 5589 55488 55"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "social-links float-right"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#",
+    className: "twitter"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-twitter"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#",
+    className: "facebook"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-facebook"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#",
+    className: "instagram"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-instagram"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#",
+    className: "google-plus"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-google-plus"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "#",
+    className: "linkedin"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-linkedin"
+  })))));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (TopBar);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/main/About.js":
+/*!***************************************************!*\
+  !*** ./resources/js/src/components/main/About.js ***!
+  \***************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _public_img_about_img_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../../../public/img/about-img.jpg */ "./resources/js/public/img/about-img.jpg");
+/* harmony import */ var _public_img_about_img_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_img_about_img_jpg__WEBPACK_IMPORTED_MODULE_1__);
+
+
+
+function About() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "about",
+    className: "wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "row"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-6 about-img"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_about_img_jpg__WEBPACK_IMPORTED_MODULE_1___default.a,
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-6 content"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Lorem ipsum dolor sit amet, consectetur adipiscing"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "ion-android-checkmark-circle"
+  }), " Ullamco laboris nisi ut aliquip ex ea commodo consequat."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "ion-android-checkmark-circle"
+  }), " Duis aute irure dolor in reprehenderit in voluptate velit."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "ion-android-checkmark-circle"
+  }), " Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur."))))));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (About);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/main/ClientList.js":
+/*!********************************************************!*\
+  !*** ./resources/js/src/components/main/ClientList.js ***!
+  \********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _public_img_clients_client_1_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../../../public/img/clients/client-1.png */ "./resources/js/public/img/clients/client-1.png");
+/* harmony import */ var _public_img_clients_client_1_png__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_img_clients_client_1_png__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _public_img_clients_client_2_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./../../../public/img/clients/client-2.png */ "./resources/js/public/img/clients/client-2.png");
+/* harmony import */ var _public_img_clients_client_2_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_img_clients_client_2_png__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_img_clients_client_3_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./../../../public/img/clients/client-3.png */ "./resources/js/public/img/clients/client-3.png");
+/* harmony import */ var _public_img_clients_client_3_png__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_img_clients_client_3_png__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_img_clients_client_4_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./../../../public/img/clients/client-4.png */ "./resources/js/public/img/clients/client-4.png");
+/* harmony import */ var _public_img_clients_client_4_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_img_clients_client_4_png__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_img_clients_client_5_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./../../../public/img/clients/client-5.png */ "./resources/js/public/img/clients/client-5.png");
+/* harmony import */ var _public_img_clients_client_5_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_img_clients_client_5_png__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_img_clients_client_6_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./../../../public/img/clients/client-6.png */ "./resources/js/public/img/clients/client-6.png");
+/* harmony import */ var _public_img_clients_client_6_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_img_clients_client_6_png__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _public_img_clients_client_7_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./../../../public/img/clients/client-7.png */ "./resources/js/public/img/clients/client-7.png");
+/* harmony import */ var _public_img_clients_client_7_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_img_clients_client_7_png__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var _public_img_clients_client_8_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./../../../public/img/clients/client-8.png */ "./resources/js/public/img/clients/client-8.png");
+/* harmony import */ var _public_img_clients_client_8_png__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_public_img_clients_client_8_png__WEBPACK_IMPORTED_MODULE_8__);
+
+
+
+
+
+
+
+
+
+
+function ClientList() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "clients",
+    className: "wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "section-header"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Clients"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "owl-carousel clients-carousel"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_clients_client_1_png__WEBPACK_IMPORTED_MODULE_1___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_clients_client_2_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_clients_client_3_png__WEBPACK_IMPORTED_MODULE_3___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_clients_client_4_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_clients_client_5_png__WEBPACK_IMPORTED_MODULE_5___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_clients_client_6_png__WEBPACK_IMPORTED_MODULE_6___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_clients_client_7_png__WEBPACK_IMPORTED_MODULE_7___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_clients_client_8_png__WEBPACK_IMPORTED_MODULE_8___default.a,
+    alt: ""
+  }))));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (ClientList);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/main/ContactUs.js":
+/*!*******************************************************!*\
+  !*** ./resources/js/src/components/main/ContactUs.js ***!
+  \*******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+function ContactUs() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "contact",
+    className: "wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "section-header"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Contact Us"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "row contact-info"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "contact-address"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "ion-ios-location-outline"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Address"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("address", null, "A108 Adam Street, NY 535022, USA"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "contact-phone"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "ion-ios-telephone-outline"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Phone Number"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "tel:+155895548855"
+  }, "+1 5589 55488 55")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "contact-email"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "ion-ios-email-outline"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Email"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "mailto:info@example.com"
+  }, "info@example.com")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container mb-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("iframe", {
+    src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452",
+    width: "100%",
+    height: "380",
+    frameborder: "0",
+    style: "border:0",
+    allowfullscreen: true
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "form"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    id: "sendmessage"
+  }, "Your message has been sent. Thank you!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    id: "errormessage"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("form", {
+    action: "",
+    method: "post",
+    role: "form",
+    className: "contactForm"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "form-row"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "form-group col-md-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
+    type: "text",
+    name: "name",
+    className: "form-control",
+    id: "name",
+    placeholder: "Your Name",
+    "data-rule": "minlen:4",
+    "data-msg": "Please enter at least 4 chars"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "validation"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "form-group col-md-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
+    type: "email",
+    className: "form-control",
+    name: "email",
+    id: "email",
+    placeholder: "Your Email",
+    "data-rule": "email",
+    "data-msg": "Please enter a valid email"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "validation"
+  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "form-group"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
+    type: "text",
+    className: "form-control",
+    name: "subject",
+    id: "subject",
+    placeholder: "Subject",
+    "data-rule": "minlen:4",
+    "data-msg": "Please enter at least 8 chars of subject"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "validation"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "form-group"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("textarea", {
+    className: "form-control",
+    name: "message",
+    rows: "5",
+    "data-rule": "required",
+    "data-msg": "Please write something for us",
+    placeholder: "Message"
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "validation"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "text-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
+    type: "submit"
+  }, "Send Message"))))));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (ContactUs);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/main/Portfolio.js":
+/*!*******************************************************!*\
+  !*** ./resources/js/src/components/main/Portfolio.js ***!
+  \*******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _public_img_portfolio_1_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../../../public/img/portfolio/1.jpg */ "./resources/js/public/img/portfolio/1.jpg");
+/* harmony import */ var _public_img_portfolio_1_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_img_portfolio_1_jpg__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _public_img_portfolio_2_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./../../../public/img/portfolio/2.jpg */ "./resources/js/public/img/portfolio/2.jpg");
+/* harmony import */ var _public_img_portfolio_2_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_img_portfolio_2_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_img_portfolio_3_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./../../../public/img/portfolio/3.jpg */ "./resources/js/public/img/portfolio/3.jpg");
+/* harmony import */ var _public_img_portfolio_3_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_img_portfolio_3_jpg__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_img_portfolio_4_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./../../../public/img/portfolio/4.jpg */ "./resources/js/public/img/portfolio/4.jpg");
+/* harmony import */ var _public_img_portfolio_4_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_img_portfolio_4_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_img_portfolio_5_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./../../../public/img/portfolio/5.jpg */ "./resources/js/public/img/portfolio/5.jpg");
+/* harmony import */ var _public_img_portfolio_5_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_img_portfolio_5_jpg__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_img_portfolio_6_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./../../../public/img/portfolio/6.jpg */ "./resources/js/public/img/portfolio/6.jpg");
+/* harmony import */ var _public_img_portfolio_6_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_img_portfolio_6_jpg__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _public_img_portfolio_7_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./../../../public/img/portfolio/7.jpg */ "./resources/js/public/img/portfolio/7.jpg");
+/* harmony import */ var _public_img_portfolio_7_jpg__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_img_portfolio_7_jpg__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var _public_img_portfolio_8_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./../../../public/img/portfolio/8.jpg */ "./resources/js/public/img/portfolio/8.jpg");
+/* harmony import */ var _public_img_portfolio_8_jpg__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_public_img_portfolio_8_jpg__WEBPACK_IMPORTED_MODULE_8__);
+
+
+
+
+
+
+
+
+
+
+function Portfolio() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "portfolio",
+    className: "wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "section-header"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Our Portfolio"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container-fluid"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "row no-gutters"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-item wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: _public_img_portfolio_1_jpg__WEBPACK_IMPORTED_MODULE_1___default.a,
+    className: "portfolio-popup"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_portfolio_1_jpg__WEBPACK_IMPORTED_MODULE_1___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-overlay"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-info"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "wow fadeInUp"
+  }, "Portfolio Item 1")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-item wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: _public_img_portfolio_2_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+    className: "portfolio-popup"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_portfolio_2_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-overlay"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-info"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "wow fadeInUp"
+  }, "Portfolio Item 2")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-item wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: _public_img_portfolio_3_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
+    className: "portfolio-popup"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_portfolio_3_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-overlay"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-info"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "wow fadeInUp"
+  }, "Portfolio Item 3")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-item wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: _public_img_portfolio_4_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+    className: "portfolio-popup"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_portfolio_4_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-overlay"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-info"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "wow fadeInUp"
+  }, "Portfolio Item 4")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-item wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: _public_img_portfolio_5_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
+    className: "portfolio-popup"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_portfolio_5_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-overlay"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-info"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "wow fadeInUp"
+  }, "Portfolio Item 5")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-item wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: _public_img_portfolio_6_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+    className: "portfolio-popup"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_portfolio_6_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-overlay"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-info"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "wow fadeInUp"
+  }, "Portfolio Item 6")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-item wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: _public_img_portfolio_7_jpg__WEBPACK_IMPORTED_MODULE_7___default.a,
+    className: "portfolio-popup"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_portfolio_7_jpg__WEBPACK_IMPORTED_MODULE_7___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-overlay"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-info"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "wow fadeInUp"
+  }, "Portfolio Item 7")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-item wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: _public_img_portfolio_8_jpg__WEBPACK_IMPORTED_MODULE_8___default.a,
+    className: "portfolio-popup"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_portfolio_8_jpg__WEBPACK_IMPORTED_MODULE_8___default.a,
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-overlay"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "portfolio-info"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "wow fadeInUp"
+  }, "Portfolio Item 8")))))))));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (Portfolio);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/main/Team.js":
+/*!**************************************************!*\
+  !*** ./resources/js/src/components/main/Team.js ***!
+  \**************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _public_img_team_1_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../public/img/team-1.jpg */ "./resources/js/public/img/team-1.jpg");
+/* harmony import */ var _public_img_team_1_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_img_team_1_jpg__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _public_img_team_2_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../public/img/team-2.jpg */ "./resources/js/public/img/team-2.jpg");
+/* harmony import */ var _public_img_team_2_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_img_team_2_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_img_team_3_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../public/img/team-3.jpg */ "./resources/js/public/img/team-3.jpg");
+/* harmony import */ var _public_img_team_3_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_img_team_3_jpg__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_img_team_4_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/img/team-4.jpg */ "./resources/js/public/img/team-4.jpg");
+/* harmony import */ var _public_img_team_4_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_img_team_4_jpg__WEBPACK_IMPORTED_MODULE_4__);
+
+
+
+
+
+
+function Team() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "team",
+    className: "wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "section-header"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Our Team")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "row"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "member"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "pic"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_team_1_jpg__WEBPACK_IMPORTED_MODULE_1___default.a,
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "details"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Walter White"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "Chief Executive Officer"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "social"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-twitter"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-facebook"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-google-plus"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-linkedin"
+  })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "member"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "pic"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_team_2_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "details"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Sarah Jhinson"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "Product Manager"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "social"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-twitter"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-facebook"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-google-plus"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-linkedin"
+  })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "member"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "pic"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_team_3_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "details"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "William Anderson"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "CTO"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "social"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-twitter"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-facebook"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-google-plus"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-linkedin"
+  })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-3 col-md-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "member"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "pic"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _public_img_team_4_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "details"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Amanda Jepson"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "Accountant"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "social"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-twitter"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-facebook"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-google-plus"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-linkedin"
+  })))))))));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (Team);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/main/Testimonial.js":
+/*!*********************************************************!*\
+  !*** ./resources/js/src/components/main/Testimonial.js ***!
+  \*********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+function Testimonial() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "testimonials",
+    className: "wow fadeInUp"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "section-header"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Testimonials"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "owl-carousel testimonials-carousel"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "testimonial-item"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-left.png",
+    className: "quote-sign-left",
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-right.png",
+    className: "quote-sign-right",
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/testimonial-1.jpg",
+    className: "testimonial-img",
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Saul Goodman"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Ceo & Founder")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "testimonial-item"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-left.png",
+    className: "quote-sign-left",
+    alt: ""
+  }), "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-right.png",
+    className: "quote-sign-right",
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/testimonial-2.jpg",
+    className: "testimonial-img",
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Sara Wilsson"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Designer")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "testimonial-item"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-left.png",
+    className: "quote-sign-left",
+    alt: ""
+  }), "Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-right.png",
+    className: "quote-sign-right",
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/testimonial-3.jpg",
+    className: "testimonial-img",
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Jena Karlis"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Store Owner")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "testimonial-item"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-left.png",
+    className: "quote-sign-left",
+    alt: ""
+  }), "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-right.png",
+    className: "quote-sign-right",
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/testimonial-4.jpg",
+    className: "testimonial-img",
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Matt Brandon"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Freelancer")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "testimonial-item"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-left.png",
+    className: "quote-sign-left",
+    alt: ""
+  }), "Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/quote-sign-right.png",
+    className: "quote-sign-right",
+    alt: ""
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/testimonial-5.jpg",
+    className: "testimonial-img",
+    alt: ""
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "John Larson"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Entrepreneur")))));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (Testimonial);
+
+/***/ }),
+
+/***/ "./resources/js/src/components/main/service.js":
+/*!*****************************************************!*\
+  !*** ./resources/js/src/components/main/service.js ***!
+  \*****************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+function Service() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "services"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "section-header"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Services"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "row"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "box wow fadeInLeft"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "icon"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-bar-chart"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
+    className: "title"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, "Lorem Ipsum")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "description"
+  }, "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident etiro rabeta lingo."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "box wow fadeInRight"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "icon"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-picture-o"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
+    className: "title"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, "Dolor Sitema")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "description"
+  }, "Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata nodera clas."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "box wow fadeInLeft",
+    "data-wow-delay": "0.2s"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "icon"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-shopping-bag"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
+    className: "title"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, "Sed ut perspiciatis")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "description"
+  }, "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-lg-6"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "box wow fadeInRight",
+    "data-wow-delay": "0.2s"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "icon"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+    className: "fa fa-map"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
+    className: "title"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: ""
+  }, "Magni Dolores")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "description"
+  }, "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera"))))));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (Service);
 
 /***/ }),
 

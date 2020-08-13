@@ -1,16 +1,18 @@
 import React from 'react';
 
+import TopBar from './components/TopBar';
+import Header from './components/Header';
+import Intro from './components/Intro';
+import Main from './components/Main';
+
+
 function App() {
     return (
-        <div className="container">
-            <div className="row justify-content-center">
-                <div className="col-md-8">
-                    <div className="card">
-                        <div className="card-header">App Component</div>
-                        <div className="card-body">I'm an app component!</div>
-                    </div>
-                </div>
-            </div>
+        <div className="App">
+            <TopBar />
+            <Header />
+            <Intro />
+            <Main />
         </div>
     );
 }
