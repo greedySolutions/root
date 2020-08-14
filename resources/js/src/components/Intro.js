@@ -10,7 +10,8 @@ function Intro() {
         <section id="intro">
 
             <div className="intro-content">
-                <h2>Making <span>your ideas</span><br/>happen!</h2>
+                <h2>
+                    Carefully crafting <span>your concept</span><br/>to completion</h2>
                 <div>
                     <a href="#about" className="btn-get-started scrollto">Get Started</a>
                     <a href="#portfolio" className="btn-projects scrollto">Our Projects</a>

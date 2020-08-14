@@ -7,7 +7,7 @@ function Header() {
 
             <div id="logo" className="pull-left">
 
-                <h1><a href="#body" className="scrollto">Reve<span>al</span></a></h1>
+                <h1><a href="#body" className="scrollto">Greedy<span>Solutons</span></a></h1>
                 {/* <a href="#body"><img src="img/logo.png" alt="" title="" /></a> */}
             </div>
 
@@ -20,14 +20,14 @@ function Header() {
                 <li><a href="#portfolio">Portfolio</a></li>
                 <li><a href="#team">Team</a></li>
 
-                <li className="menu-has-children"><a href="">Drop Down</a>
+                {/* <li className="menu-has-children"><a href="">Drop Down</a>
                     <ul>
                     <li><a href="#">Drop Down 1</a></li>
                     <li><a href="#">Drop Down 3</a></li>
                     <li><a href="#">Drop Down 4</a></li>
                     <li><a href="#">Drop Down 5</a></li>
                     </ul>
-                </li>
+                </li> */}
 
                 <li><a href="#contact">Contact</a></li>
 

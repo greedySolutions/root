@@ -1,8 +1,8 @@
 import React from 'react'
-import t1 from '../../../public/img/team-1.jpg'
-import t2 from '../../../public/img/team-2.jpg'
-import t3 from '../../../public/img/team-3.jpg'
-import t4 from '../../../public/img/team-4.jpg'
+import t1 from './../../../public/img/yasin.jpg'
+import t2 from '../../../public/img/fazlul.jpg'
+import t3 from '../../../public/img/tafhim.jpg'
+// import t4 from '../../../public/img/team-4.jpg'
 
 function Team() {
     return (
@@ -13,7 +13,8 @@ function Team() {
             <h2>Our Team</h2>
             </div>
             <div className="row">
-            <div className="col-lg-3 col-md-6">
+
+            <div className="col-lg-4 col-md-6">
                 <div className="member">
                 <div className="pic"><img src={t1} alt="" /></div>
                 <div className="details">
@@ -29,7 +30,7 @@ function Team() {
                 </div>
             </div>
 
-            <div className="col-lg-3 col-md-6">
+            <div className="col-lg-4 col-md-6">
                 <div className="member">
                 <div className="pic"><img src={t2} alt="" /></div>
                 <div className="details">
@@ -45,7 +46,7 @@ function Team() {
                 </div>
             </div>
 
-            <div className="col-lg-3 col-md-6">
+            <div className="col-lg-4 col-md-6">
                 <div className="member">
                 <div className="pic"><img src={t3} alt="" /></div>
                 <div className="details">
@@ -61,7 +62,7 @@ function Team() {
                 </div>
             </div>
 
-            <div className="col-lg-3 col-md-6">
+            {/* <div className="col-lg-3 col-md-6">
                 <div className="member">
                 <div className="pic"><img src={t4} alt="" /></div>
                 <div className="details">
@@ -75,7 +76,7 @@ function Team() {
                     </div>
                 </div>
                 </div>
-            </div>
+            </div> */}
             </div>
 
         </div>
