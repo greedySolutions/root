@@ -15,7 +15,6 @@ function Main() {
             <Service />
             <ClientList />
             <Portfolio />
-            <Testimonial />
             <Team />
             <ContactUs />
 

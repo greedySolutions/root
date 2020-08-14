@@ -4,6 +4,7 @@ import TopBar from './components/TopBar';
 import Header from './components/Header';
 import Intro from './components/Intro';
 import Main from './components/Main';
+import { Footer } from './components/Footer';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
             <Header />
             <Intro />
             <Main />
+            <Footer />
         </div>
     );
 }
